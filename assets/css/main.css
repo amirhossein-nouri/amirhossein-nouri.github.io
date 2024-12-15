@@ -979,13 +979,13 @@ a:hover
 /* حالت دسکتاپ */
 .social-fixed {
     position: fixed;
-    bottom: 20px; /* فاصله از پایین */
+    bottom: 37px; /* فاصله از پایین */
     left: 15%; /* مرکز نیمه چپ */
     z-index: 100; /* بالاتر از سایر عناصر */
     display: flex;
     flex-direction: row; /* مرتب‌سازی افقی آیکون‌ها */
-    gap: 10px; /* فاصله بین آیکون‌ها */
-    transform: translateX(-50%); /* انتقال به مرکز افقی نیمه چپ */
+    gap: 7px; /* فاصله بین آیکون‌ها */
+    transform: translateX(-46%); /* انتقال به مرکز افقی نیمه چپ */
 }
 
 .social-fixed a {
